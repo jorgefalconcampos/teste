@@ -86,10 +86,13 @@ Este proyecto se hizo posible gracias a la utilización de los siguientes softwa
 
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [jQuery](https://jquery.com/)
 - HTML 5, AJAX, JavaScript
+
+
 
 
 ## Licencia
