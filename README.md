@@ -23,8 +23,6 @@
   <a href="https://docs.docker.com/compose/"target="_blank"><img src="https://img.shields.io/badge/-docker%20compose-2391E6" alt="docker-compose"></a>
 	
 </p>
-
-
 	
 <p align="center">
   <a href="#qué-es-ECAD">¿Qué es <b>ECAD<b>?</a> •
@@ -34,7 +32,7 @@
   <a href="#licencia">Licencia</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-madownify/master/app/img/markdownify.gif)
 
 ## ¿Qué es **ECAD**?
 
@@ -67,17 +65,14 @@ Para más información sobre las versiones de producción y desarrollo, favor de
 Para hacerlo desde la consola (con docker-compose) ejecutar los siguiente comandos:
 
 ```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+# Paso 1 - comment
+$ aaa
 
-# Go into the repository
-$ cd electron-markdownify
+# Paso 2 - comment
+$ aaa
 
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
+# Paso 3 - comment
+$ aaa
 ```
 
 ## Créditos
