@@ -53,7 +53,7 @@ Entre otras, las características que posee ECAD, son:
 
 ## Como utilizar ECAD
 
-Para ejecutar ECAD, solo es necesario ir a la dirección IP del servidor donde se instale. Para ejecutar localmente, es necesario instalar [Docker](https://www.docker.com/){:target="_blank"} en el sistema y proceder como se indica en los manuales técnicos y de instalación. Se necesitarán, al menos, [Python](https://www.python.org/downloads/){:target="_blank"} y [Django](https://www.djangoproject.com/){:target="_blank"} en las versiones indicadas, cuyas imagenes de instalación se encuentran en el archivo docker-compose-x, donde **x** es la versión de desarrollo o de producción.  
+Para ejecutar ECAD, solo es necesario ir a la dirección IP del servidor donde se instale. Para ejecutar localmente, es necesario instalar [Docker](https://www.docker.com/) en el sistema y proceder como se indica en los manuales técnicos y de instalación. Se necesitarán, al menos, [Python](https://www.python.org/downloads/) y [Django](https://www.djangoproject.com/) en las versiones indicadas, cuyas imagenes de instalación se encuentran en el archivo docker-compose-x, donde **x** es la versión de desarrollo o de producción.  
 
 Para más información sobre las versiones de producción y desarrollo, favor de leer los manuales.
 
