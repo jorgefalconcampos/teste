@@ -53,9 +53,11 @@ Entre otras, las características que posee ECAD, son:
 
 ## Beneficios
 
-En estos tiempos de enseñanza y aprendizaje a distancia, puede ser díficil comunicar y recibir el conocimiento de manera oportuna y eficaz. Con eso en mente, se decidió desarrollar una plataforma online para que los apuntes, notas, mensajes, clases o incluso las reflexiones de los docentes se comuniquen abiertamente y sean accesibles. El aprendizaje nunca termina, y es por eso que la
+En estos tiempos de enseñanza y aprendizaje a distancia, puede ser díficil comunicar y recibir el conocimiento de manera oportuna y eficaz. Con eso en mente, se decidió desarrollar una plataforma online para que los apuntes, notas, mensajes, clases o incluso las reflexiones de los docentes se comuniquen abiertamente y sean accesibles. El aprendizaje nunca termina, y es por eso que se tomó la iniciativa de desarrollar ECAD.
 
-## Como utilizar ECAD
+Uno de los principales beneficios que tiene ECAD es la enseñanza a distancia como instrumento para el progreso de la sociedad. Este elemento, (la enseñanza a distancia) se incluye en el nombre del proyecto, además de la referencia al símbolo WiFi como representación de los datos y disponibilidad 24/7.
+
+## Cómo utilizar ECAD
 
 Para ejecutar ECAD, solo es necesario ir a la dirección IP del servidor donde se instale. Para ejecutar localmente, es necesario instalar [Docker](https://www.docker.com/) en el sistema y proceder como se indica en los manuales técnicos y de instalación. Se necesitarán, al menos, [Python](https://www.python.org/downloads/) y [Django](https://www.djangoproject.com/) en las versiones indicadas, cuyas imagenes de instalación se encuentran en el archivo docker-compose-x, donde **x** es la versión de desarrollo o de producción.  
 
