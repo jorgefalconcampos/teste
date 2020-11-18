@@ -10,15 +10,18 @@
 <hr>
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/versi%C3%B3n-1.0.3-blue.svg" alt="versionECAD">
+  <img src="https://img.shields.io/badge/ECAD v.-1.0.3-blue.svg" alt="versionECAD">
 </p>
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3.1.3-F7CB3F.svg" alt="version"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-3.0.3-09541F.svg" alt="version"></a>
+  <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/nginx-009639.svg" alt="nginx"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336690" alt="postgresql"></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-purple.svg" alt="html5"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-docker-6CB5EE" alt="docker"></a>
   <a href="https://docs.docker.com/compose/"target="_blank"><img src="https://img.shields.io/badge/-docker%20compose-2391E6" alt="docker-compose"></a>
+	
 </p>
 
 
@@ -50,6 +53,9 @@ Entre otras, las características que posee ECAD, son:
 * Suscripción al boletín de noticias cuando se publique sobre temas relevantes
 * Optimización para SEO
 
+## Beneficios
+
+En estos tiempos de enseñanza y aprendizaje a distancia, puede ser díficil comunicar y recibir el conocimiento de manera oportuna y eficaz. Con eso en mente, se decidió desarrollar una plataforma online para que los apuntes, notas, mensajes, clases o incluso las reflexiones de los docentes se comuniquen abiertamente y sean accesibles. El aprendizaje nunca termina, y es por eso que la
 
 ## Como utilizar ECAD
 
