@@ -5,7 +5,7 @@
   ECAD - Enseñanza Continua A Distancia
 </h1>
 
-<h4 align="center">Una platadorma online para continuar con el aprendizaje. En cualquier lugar, a cualquier hora.</h4>
+<h4 align="center">Una plataforma online para continuar con el aprendizaje en cualquier lugar, a cualquier hora.</h4>
 
 <hr>
 
@@ -14,6 +14,7 @@
   <a href="#"> <img src="https://img.shields.io/badge/python-3.1.3-F7CB3F.svg" alt="version"> </a>
   <a href="#"> <img src="https://img.shields.io/badge/django-3.0.3-09541F.svg" alt="version"> </a>
   <a href="#"> <img src="https://img.shields.io/badge/HTML5-orange.svg" alt="html5"> </a>
+  <a href="#"> <img src="https://img.shields.io/badge/Bootstrap-purple.svg" alt="html5"> </a>
   <a href="#"> <img src="https://img.shields.io/badge/-docker-6CB5EE" alt="docker"> </a>
   <a href="#"> <img src="https://img.shields.io/badge/-docker%20compose-2391E6" alt="docker-compose"> </a>
 </p>
@@ -23,34 +24,36 @@
   <a href="#como-utilizar-ECAD">Cómo utilizarlo</a> •
   <a href="#beneficios">Beneficios</a> •
   <a href="#descarga">Descarga</a> •
-  <a href="#license">Licencia</a>
+  <a href="#licencia">Licencia</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## ¿Qué es **ECAD**?
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+ECAD es una plataforma online donde el conocimiento converge. Es un libro abierto donde cuaqluiera puede consultar los apuntes o artículos publicados y mejorar sus competencias académicas, aprender algo nuevo, repasar temas antes vistos o realizar preguntas sobre un tema en específico.
+Entre otras, las características que posee ECAD, son:
+
+* Publicación de apuntes (también llamados artículos) por parte del profesor
+ .swd 
+* Los apuntes pueden ser consultados por los interesadados en cualquier momento
+* Responsividad, el contenido se ajusta al tamaño del dispositivo utilizado
+* Organización de los apuntes por medio de etiquetas y categorías
+* Posibilidad de agregar comentarios a los apuntes y puntuarlos
+* Sistema de administración completo, permite crear, editar y eliminar usuarios
+* El usuario (quién puede ser un profesor) puede crear tantos apuntes como desee
+* El usuario puede crear, editar, archivar o eliminar apuntes creados por él
+* El usuario autor de un apunte puede aprobar comentarios sobre sus apuntes
+* Integración de contacto con los autores para mejor retroalimentación
+* Optimización para SEO
+
 
 ## Como utilizar ECAD
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+Para ejecutar ECAD, solo es necesario instalar [Docker](https://www.docker.com/) en el sistema y proceder como se indica en los manuales técnicos y de instalación. 
+Se necesitarán, al menos, [Python](https://www.python.org/downloads/) y [Django](https://www.djangoproject.com/) en las versiones indicadas, cuyas imagenes de instalación se encuentran en el archivo docker-compose-x, donde **x** es la versión de desarrollo o de producción.  
+
+Para hacerlo desde la consola (con docker-compose):
 
 ```bash
 # Clone this repository
@@ -65,8 +68,6 @@ $ npm install
 # Run the app
 $ npm start
 ```
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 
 ## Download
@@ -108,13 +109,10 @@ This software uses the following open source packages:
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
 - [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
-## License
-
-MIT
+## Licencia
+Este trabajo informático fue desarrollado para el concurso institucional "Premio al Mejor Software 2020" organizado por el Instituto Politécnico Nacional. Cualquier uso del código no autorizado previamente por parte del autor se reportará como indebido y aplicarán las sanciones correspondientes. En caso de que el proyecto resulte ganador, el repositoro pasará a ser privado y su uso, descarga, utilización y distribución quedará en manos del instituto.
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+
 
