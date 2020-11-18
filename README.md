@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a href="http://github.com"><img src="https://i.ibb.co/W5qWsf8/ECAD-psd.png" alt="ECAD logo" width="200"></a>
+  <a href="http://github.com"><img src="https://i.ibb.co/D7sKYC4/ECAD-no-Shadow.png" alt="ECAD logo" width="200"></a>
   <br>
   ECAD - Enseñanza Continua A Distancia
 </h1>
