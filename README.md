@@ -20,8 +20,9 @@
 
 <p align="center">
   <a href="#qué-es-ECAD">¿Qué es <b>ECAD<b>?</a> •
-  <a href="#how-to-use">Cómo utilizarlo</a> •
-  <a href="#download">Beneficios</a> •
+  <a href="#como-utilizar-ECAD">Cómo utilizarlo</a> •
+  <a href="#beneficios">Beneficios</a> •
+  <a href="#descarga">Descarga</a> •
   <a href="#license">Licencia</a>
 </p>
 
@@ -47,7 +48,7 @@
 * Cross platform
   - Windows, macOS and Linux ready.
 
-## How To Use
+## Como utilizar ECAD
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
