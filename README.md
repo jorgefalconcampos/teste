@@ -53,7 +53,10 @@ Entre otras, las características que posee ECAD, son:
 
 ## Como utilizar ECAD
 
-Para ejecutar ECAD, solo es necesario ir a la dirección IP del servidor donde se instale. Para ejecutar localmente, es necesario instalar [Docker](https://www.docker.com/) en el sistema y proceder como se indica en los manuales técnicos y de instalación. Se necesitarán, al menos, [Python](https://www.python.org/downloads/) y [Django](https://www.djangoproject.com/) en las versiones indicadas, cuyas imagenes de instalación se encuentran en el archivo docker-compose-x, donde **x** es la versión de desarrollo o de producción.  
+Para ejecutar ECAD, solo es necesario ir a la dirección IP del servidor donde se instale. Para ejecutar localmente, es necesario instalar [Docker](https://www.docker.com/){:target="_blank"} en el sistema y proceder como se indica en los manuales técnicos y de instalación. Se necesitarán, al menos, [Python](https://www.python.org/downloads/){:target="_blank"} y [Django](https://www.djangoproject.com/){:target="_blank"} en las versiones indicadas, cuyas imagenes de instalación se encuentran en el archivo docker-compose-x, donde **x** es la versión de desarrollo o de producción.  
+
+Para más información sobre las versiones de producción y desarrollo, favor de leer los manuales.
+
 
 Para hacerlo desde la consola (con docker-compose) ejecutar los siguiente comandos:
 
@@ -84,7 +87,7 @@ Este proyecto se hizo posible gracias a la utilización de los siguientes softwa
 
 
 ## Licencia
-Este trabajo informático fue desarrollado para el concurso institucional "Premio al Mejor Software 2020" organizado por el Instituto Politécnico Nacional. Cualquier uso del código no autorizado previamente por parte del autor se reportará como indebido y aplicarán las sanciones correspondientes. En caso de que el proyecto resulte ganador, el repositoro pasará a ser privado y su uso, descarga, utilización y distribución quedará en manos del instituto.
+Este trabajo informático fue desarrollado para el [concurso institucional](https://www.ipn.mx/des/alumnos-egresados/concursos-academicos.html) "Premio al Mejor Software 2020" organizado por el Instituto Politécnico Nacional. Cualquier uso del código no autorizado previamente por parte del autor se reportará como indebido y aplicarán las sanciones correspondientes. En caso de que el proyecto resulte ganador, el repositoro pasará a ser privado y su uso, descarga, utilización y distribución quedará en manos del instituto.
 
 ---
 
