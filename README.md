@@ -35,7 +35,7 @@
 
 ## ¿Qué es **ECAD**?
 
-ECAD es una plataforma online donde el conocimiento converge. Es un libro abierto donde se pueden consultar los apuntes publicados y mejorar competencias académicas, aprender algo nuevo, repasar temas o realizar preguntas.
+ECAD es una plataforma online donde el conocimiento converge. Es un libro abierto donde se pueden consultar los apuntes publicados y mejorar competencias académicas, aprender algo nuevo, repasar temas o simplemente realizar preguntas.
 Entre otras, las características que posee ECAD, son:
 
 * Publicación de apuntes (también llamados artículos) por parte del profesor, los cuales pueden ser consultados por los interesadados en cualquier momento
