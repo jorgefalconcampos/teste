@@ -41,7 +41,7 @@ Entre otras, las características que posee ECAD, son:
 * Publicación de apuntes (también llamados artículos) por parte del profesor, los cuales pueden ser consultados por los interesadados en cualquier momento
 * Responsividad, el contenido se ajusta al tamaño del dispositivo utilizado
 * Organización de apuntes por medio de etiquetas y categorías
-* Posibilidad de agregar comentarios a los apuntes y puntuarlos con el objetivo de mejorar el contenido de los apuntes
+* Posibilidad de agregar comentarios a los apuntes y puntuarlos con el objetivo de mejorar el contenido
 * Sistema de administración completo: permite crear, editar y eliminar usuarios (profesores)
 * El usuario puede crear tantos apuntes como desee, una vez aprobados podrán ser vistos por los lectores
 * El usuario puede crear, editar, archivar o eliminar apuntes creados por él
