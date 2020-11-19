@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3.1.3-F7CB3F.svg" alt="version"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-3.0.3-09541F.svg" alt="version"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3.6.6-F7CB3F.svg" alt="version"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-3.0.7-09541F.svg" alt="version"></a>
   <a href="https://www.nginx.com/" target="_blank"><img src="https://img.shields.io/badge/nginx-009639.svg" alt="nginx"></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336690" alt="postgresql"></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-purple.svg" alt="html5"></a>
