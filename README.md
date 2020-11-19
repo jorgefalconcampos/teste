@@ -26,8 +26,8 @@
 	
 <p align="center">
   <a href="#qué-es-ECAD">¿Qué es ECAD?</a> •
-  <a href="#como-utilizar-ECAD">Cómo utilizarlo</a> •
   <a href="#beneficios">Beneficios</a> •
+  <a href="#como-utilizar-ECAD">Cómo utilizarlo</a> •
   <a href="#créditos">Créditos</a> •
   <a href="#licencia">Licencia</a>
 </p>
