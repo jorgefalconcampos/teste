@@ -27,7 +27,7 @@
 <p align="center">
   <a href="#qué-es-ECAD">¿Qué es ECAD?</a> •
   <a href="#beneficios">Beneficios</a> •
-  <a href="#como-utilizar-ECAD">Cómo utilizarlo</a> •
+  <a href="#cómo-se-utiliza">Cómo utilizarlo</a> •
   <a href="#créditos">Créditos</a> •
   <a href="#licencia">Licencia</a>
 </p>
@@ -57,7 +57,7 @@ En estos tiempos de enseñanza y aprendizaje a distancia, puede ser díficil com
 
 Uno de los principales beneficios que tiene ECAD es la enseñanza a distancia como instrumento para el progreso de la sociedad. Este elemento, (la enseñanza a distancia) se incluye en el nombre del proyecto, además de la referencia al símbolo WiFi como representación de los datos y disponibilidad 24/7.
 
-## Cómo utilizar ECAD
+## Cómo se utiliza
 
 Para ejecutar ECAD, solo es necesario ir a la dirección IP del servidor donde se instale. Para ejecutar localmente, es necesario instalar [Docker](https://www.docker.com/) en el sistema y proceder como se indica en los manuales técnicos y de instalación. Se necesitarán, al menos, [Python](https://www.python.org/downloads/) y [Django](https://www.djangoproject.com/) en las versiones indicadas, cuyas imagenes de instalación se encuentran en el archivo docker-compose-x, donde **x** es la versión de desarrollo o de producción.  
 
