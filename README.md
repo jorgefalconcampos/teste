@@ -85,6 +85,8 @@ Este proyecto se hizo posible gracias a la utilización de los siguientes softwa
 - [Django](https://www.djangoproject.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
+- [NGINX](https://www.nginx.com/)
+- [Gunicorn](https://gunicorn.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [jQuery](https://jquery.com/)
 - HTML 5, AJAX, JavaScript
